@@ -47,7 +47,7 @@
     (thermal_bridge_angle 45) (tstamp 08aec743-cc11-43e7-b241-7038c0fbfed2))
   (pad "8" smd roundrect (at 0 -0.3875) (size 0.2 0.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15)
     (thermal_bridge_angle 45) (tstamp 85855533-d23d-4eb7-93f3-74294d90f2e0))
-  (model "${KIPRJMOD}/Library/3D/PUSB3FR4Z.stp"
+  (model "../3D/PUSB3FR4Z.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

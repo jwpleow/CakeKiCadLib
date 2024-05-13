@@ -65,7 +65,7 @@
   (pad "12" thru_hole circle (at 6.86 -5.57) (size 1.446 1.446) (drill 0.89) (layers "*.Cu" "*.Mask") (tstamp dbc74094-8a7f-4156-85db-b7a6f423b09a))
   (pad "13" thru_hole circle (at -8.13 0) (size 2.7 2.7) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 887bdb9b-69f2-4ddd-920c-b23b90ba78d6))
   (pad "13" thru_hole circle (at 8.13 0) (size 2.7 2.7) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp c04630ed-9551-4668-90d9-c9a0cd4be8c0))
-  (model "${KIPRJMOD}/Library/3D/R-RJ45R08P-C000.stp"
+  (model "../3D/R-RJ45R08P-C000.stp"
     (offset (xyz 3.5 -1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

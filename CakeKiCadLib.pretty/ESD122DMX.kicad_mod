@@ -26,7 +26,7 @@
   (pad "1" smd rect (at -0.15 0 270) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0e28f5a9-56bf-4500-a556-fef917d1c4ab))
   (pad "2" smd rect (at 0.15 0.34 270) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 453159a4-e84a-490e-943f-8a94a18eeb4d))
   (pad "3" smd rect (at 0.15 -0.34 270) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2cf8fbc8-43b2-4f84-b153-5e97bc63cf36))
-  (model "${KIPRJMOD}/Library/3D/ESD122DMXR.stp"
+  (model "../3D/ESD122DMXR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

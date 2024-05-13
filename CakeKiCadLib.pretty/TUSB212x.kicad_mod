@@ -43,7 +43,7 @@
     (thermal_bridge_angle 45) (tstamp 88244788-6db2-4bd0-8bdc-370a7b465ffa))
   (pad "12" smd roundrect (at -0.75 0.6) (size 0.5 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
     (thermal_bridge_angle 45) (tstamp 1e62fe56-2ada-4c40-a550-b80322582a2e))
-  (model "${KIPRJMOD}/Library/3D/TUSB212IRWBR.STEP"
+  (model "../3D/TUSB212IRWBR.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

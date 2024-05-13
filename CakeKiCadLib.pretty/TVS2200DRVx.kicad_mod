@@ -40,7 +40,7 @@
   (pad "5" smd rect (at 0.975 0 90) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8c43d7c7-cfe6-4ba8-a742-39d32baf2258))
   (pad "6" smd rect (at 0.975 -0.65 90) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2a57a1ad-d2e3-4c91-a507-a9dfa577932a))
   (pad "7" smd rect (at 0 0) (size 1 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 30e06f65-e61b-46c9-b9b6-ec94b5c86669))
-  (model "${KIPRJMOD}/Library/3D/TVS2200DRVR.stp"
+  (model "../3D/TVS2200DRVR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

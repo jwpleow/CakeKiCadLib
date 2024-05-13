@@ -119,7 +119,7 @@
     (solder_paste_margin -0.05) (thermal_bridge_angle 45) (tstamp 27bdc900-1f73-4366-b41e-41f4345e7e2d))
   (pad "21" smd rect (at 0.253125 0.285) (size 0.16875 0.19) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin -0.05) (thermal_bridge_angle 45) (tstamp b8e4e98b-2c29-44b6-a5a5-df3288a50067))
-  (model "${KIPRJMOD}/Library/3D/TPS51396ARJET.stp"
+  (model "../3D/TPS51396ARJET.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
