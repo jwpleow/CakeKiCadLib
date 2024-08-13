@@ -2482,7 +2482,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "CakeKiCadLib:LM5155QDSSRQ1"
+		(property "Footprint" "CakeKiCadLib:DSS0012x"
 			(at 31.75 -94.92 0)
 			(effects
 				(font
@@ -10388,7 +10388,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "CakeKiCadLib:TPS7B8233QDGNRQ1"
+		(property "Footprint" "CakeKiCadLib:DGN0008G"
 			(at 26.67 -94.92 0)
 			(effects
 				(font

@@ -263,4 +263,15 @@
 		(roundrect_rratio 0.1)
 		(uuid "a5d3ba7b-114a-4ff2-9f43-4da039f3a8ec")
 	)
+	(model "../3D/STPS3H100UF.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
